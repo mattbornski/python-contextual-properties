@@ -1,0 +1,1 @@
+from .contextualproperties import properties
